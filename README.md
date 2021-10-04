@@ -1,7 +1,8 @@
 # Projects
-Hog
+
+![image](https://user-images.githubusercontent.com/90896831/135820423-38b50fba-d451-4132-8771-69590d37e2c8.png)
+
 CS61A project 1
-I know! I'll use my Higher-order functions to Order higher rolls.
 
 Introduction
 In this project, you will develop a simulator and multiple strategies for the dice game Hog. You will need to use control statements and higher-order functions together, as described in Sections 1.2 through 1.6 of Composing Programs.
